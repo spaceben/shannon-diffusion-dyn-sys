@@ -1,0 +1,1 @@
+f(x::float) = sin(x) / (1 - mu * cos(x))
